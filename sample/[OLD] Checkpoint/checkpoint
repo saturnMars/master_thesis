@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vieri/notebooks/sample/adVAE/../Checkpoint/model_checker"
+all_model_checkpoint_paths: "/home/vieri/notebooks/sample/adVAE/../Checkpoint/model_checker"
